@@ -51,7 +51,7 @@ institutes are 13 against 149 in A9. So the acheivement of institute A9 is remar
 • There was 11 institutes (A2,A3,A5,A7,A9,A10,A12,A13,A17,A18,A19) performed above average grade out of 19
 institutes.
 
-![Test Image](overgrad.png)
+![Test Image](ovgrad.png)
 
 				Performance on EQT Institute-wise
 • The below stacked bar chart depicts the EQT on numerical,logical,verbal,IT awareness percentages of different
