@@ -27,8 +27,10 @@ Submissions
 1. Processed Dataset
 2. Results of Analysis (Can be plots, Tables, etc.)
 
+Excel files availbale at EQT Results folder
 
-				Anomalies and Data Cleaning
+
+					Anomalies and Data Cleaning
 • From excel files of 19 institutes, we observe that only 1326 students submit the exam
 out of 1337.So we consider only 1326 student for analysis.
 • All the institutes a have neagtive mark of ‘-0.25’ for the wrong attempts,’1.00’ for the
@@ -43,7 +45,7 @@ cannot consider the particular one as numerical,logical,verbal respectively.So h
 taken the percentage of logical,numerical,verbal and IT awareness as it is from the
 file given.
 
-			      Institutes Overall Grade on EQT
+			      	      Institutes Overall Grade on EQT
 • The below plot depicts the overall grade on EQT by institutes level.Here A9 institute performed well followed by
 A7,A12 and A5 respectively and the least performed by A11 institute and followed by A15 and A4 in low grade .
 • Although the performance of A7 is comparable with A9, it should be noted that the number of studens in these
@@ -53,7 +55,7 @@ institutes.
 
 ![Test Image](ovgrad.png)
 
-				Performance on EQT Institute-wise
+				     Performance on EQT Institute-wise
 • The below stacked bar chart depicts the EQT on numerical,logical,verbal,IT awareness percentages of different
 institutes.
 • From the plot we came to know that numerical type was worst performed by the students followed by logical and
@@ -62,7 +64,7 @@ verbal.
 
 ![Test Image](eqt.png)
 
-				Percentage of above average students
+				     Percentage of above average students
 Institute wise
 • From the figure it can be seen that institute A7 has 84.62% of students who are above average
 followed by A9 which has 77.18% also institutes A2,A5,A12,A10,A12,A17,A18 who has more than
@@ -70,7 +72,7 @@ followed by A9 which has 77.18% also institutes A2,A5,A12,A10,A12,A17,A18 who ha
 
 ![Test Image](preabv.png)
 
-				Time taken by individual students for EQT
+				     Time taken by individual students for EQT
 
 The plot shows the time taken by the students in all institutes to submit the EQT exam. The red line
 divides the data points into marks scored above and below average.The green points represents the
